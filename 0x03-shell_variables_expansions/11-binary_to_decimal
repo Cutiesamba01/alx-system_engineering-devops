@@ -1,0 +1,2 @@
+#!/bin/bash
+DECIMAL=$(bc <<< "obase=10;ibase=2;$BINARY")\
