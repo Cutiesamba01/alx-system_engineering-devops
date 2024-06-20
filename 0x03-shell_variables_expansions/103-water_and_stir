@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((16#$((tr water 0123456789 WATER)) + 16#$((tr stir 0123456789 STIR))))\
+echo "obase=13; $(echo "ibase=5; $WATER" | bc) + $(echo "ibase=7; $STIR" | bc)" | bc
