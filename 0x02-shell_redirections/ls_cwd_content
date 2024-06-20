@@ -1,0 +1,31 @@
+total 4
+-rwxrwxr-x 1 cutiesamba cutiesamba   87 Jun 19 18:43 #7-file#
+drwxr-xr-x 1 cutiesamba cutiesamba 4096 Jun 20 01:50 .
+lrwxrwxrwx 1 cutiesamba cutiesamba   26 Jun 19 18:42 .#7-file -> cutiesamba@Cutiesamba.2646
+drwxr-xr-x 1 cutiesamba cutiesamba 4096 Jun 19 15:06 ..
+-rwxr--r-- 1 cutiesamba cutiesamba   32 Jun 19 12:21 0-hello_world
+-rwxr-xr-x 1 cutiesamba cutiesamba   28 Jun 19 14:39 1-confused_smiley
+-rw-rw-r-- 1 cutiesamba cutiesamba    0 Jun 19 15:34 10-no_more_js
+-rw-rw-r-- 1 cutiesamba cutiesamba    0 Jun 19 15:34 11-directories
+-rw-rw-r-- 1 cutiesamba cutiesamba    0 Jun 19 15:35 12-newest_files
+-rw-rw-r-- 1 cutiesamba cutiesamba    0 Jun 19 15:35 13-unique
+-rw-rw-r-- 1 cutiesamba cutiesamba    0 Jun 19 15:35 14-findthatword
+-rw-rw-r-- 1 cutiesamba cutiesamba    0 Jun 19 15:36 15-countthatword
+-rw-rw-r-- 1 cutiesamba cutiesamba    0 Jun 19 15:36 16-whatsnext
+-rw-rw-r-- 1 cutiesamba cutiesamba    0 Jun 19 15:36 17-hidethisword
+-rwxr-xr-x 1 cutiesamba cutiesamba   28 Jun 19 15:50 2-hellofile
+-rwxrwxr-x 1 cutiesamba cutiesamba   39 Jun 19 16:41 3-twofiles
+-rwxrwxr-x 1 cutiesamba cutiesamba   35 Jun 19 16:54 4-lastlines
+-rwxrwxr-x 1 cutiesamba cutiesamba   35 Jun 19 16:57 5-firstlines
+-rwxrwxr-x 1 cutiesamba cutiesamba   40 Jun 19 17:20 6-third_line
+-rwxrwxrwx 1 cutiesamba cutiesamba   82 Jun 19 18:48 7-file
+-rwxrwxr-x 1 cutiesamba cutiesamba   36 Jun 20 01:50 8-cwd_state
+-rw-rw-r-- 1 cutiesamba cutiesamba    0 Jun 19 15:33 9-duplicate_last_line
+-rw-r--r-- 1 cutiesamba cutiesamba   70 Jun 19 11:58 README.md
+-rw-rw-r-- 1 cutiesamba cutiesamba   12 Jun 19 18:48 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 cutiesamba cutiesamba   12 Jun 19 18:12 \*\\'"Best School"`\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 cutiesamba cutiesamba   12 Jun 19 17:58 \*\\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 cutiesamba cutiesamba   12 Jun 19 18:06 \*\\\'"Best School"`\\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 cutiesamba cutiesamba   64 Jun 19 17:03 iacta
+-rw-rw-r-- 1 cutiesamba cutiesamba    0 Jun 20 01:50 ls_cwd_content
+-rw-rw-r-- 1 cutiesamba cutiesamba  801 Jun 19 17:07 test
